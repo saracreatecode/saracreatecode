@@ -4,10 +4,9 @@
 
 <p align="center">
 I'm a <strong>Multiplatform Application Development (DAM)</strong> student driven by curiosity for design, programming, and how technology can blend with art.<br><br>
-I spent a year developing <strong>websites with WordPress, HTML, CSS, and JavaScript</strong>, where I discovered that visual aesthetics can be just as important as the logic behind the code.<br><br>
+I spent a year developing <strong>websites with WordPress, HTML, CSS, and JavaScript</strong>, where I discovered that visual aesthetics can be just as important as the logic behind the code. 
 I love creating clean, usable, and visually balanced interfaces, applying principles of <strong>color theory and artistic composition</strong> in every project.  
 I enjoy every phase of the process — from structuring ideas to seeing the final product come to life and bring real value to people.<br><br>
-Currently, I’m learning <strong>Java</strong> and diving deeper into <strong>SQL databases</strong>, an area I find fascinating for its structure and logic.<br><br>
 My professional goal is to keep growing as a developer, likely oriented toward <strong>front-end development</strong>, without ever losing my creative side.
 </p>
 
