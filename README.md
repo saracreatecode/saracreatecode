@@ -53,6 +53,9 @@ I also love outdoor sports like <strong>paddle, climbing, and running</strong>, 
 
 <h2 align="center">📫 Contact</h2>
 <p align="center">
+  <a href="mailto:saragarciamartin19@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-saragarciamartin19%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
   <a href="https://www.linkedin.com/in/sara-garc%C3%ADa-mart%C3%ADn-342b482b1/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Sara%20García%20Martín-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
@@ -74,9 +77,3 @@ I also love outdoor sports like <strong>paddle, climbing, and running</strong>, 
     height="150"
   />
 </p>
-
-<br>
-
-<blockquote align="center">
-  “Code can also be art when every line carries intention and balance.”
-</blockquote>
