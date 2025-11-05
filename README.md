@@ -62,9 +62,17 @@ I also love outdoor sports like <strong>paddle, climbing, and running</strong>, 
 
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saracreatecode&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true" alt="Sara's GitHub stats" height="150"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=saracreatecode&show_icons=true&bg_color=000944&title_color=FFA600&text_color=F8F9FF&icon_color=FFFFFF&hide_border=true" 
+    alt="GitHub Stats"
+    height="150"
+  />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saracreatecode&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="150"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=saracreatecode&layout=compact&bg_color=000944&title_color=FFA600&text_color=F8F9FF&hide_border=true" 
+    alt="Most Used Languages"
+    height="150"
+  />
 </p>
 
 <br>
