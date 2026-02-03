@@ -65,20 +65,3 @@ I also love outdoor sports like <strong>paddle, climbing, and running</strong>, 
     <img src="https://img.shields.io/badge/LinkedIn-Sara%20García%20Martín-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
 </p>
-
-<br>
-
-<h2 align="center">📊 GitHub Stats</h2>
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=saracreatecode&show_icons=true&bg_color=000944&title_color=FFA600&text_color=F8F9FF&icon_color=FFFFFF&hide_border=true" 
-    alt="GitHub Stats"
-    height="150"
-  />
-  <br><br>
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=saracreatecode&layout=compact&bg_color=000944&title_color=FFA600&text_color=F8F9FF&hide_border=true" 
-    alt="Most Used Languages"
-    height="150"
-  />
-</p>
